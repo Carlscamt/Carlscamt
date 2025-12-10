@@ -4,10 +4,10 @@
   <a href="https://github.com/Carlscamt">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-Carlscamt-181717?logo=github&style=flat-square">
   </a>
-  <a href="https://www.linkedin.com/in/carloscamt/">
+  <a href="https://www.linkedin.com/in/carlscamt/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Carlos%20Martinez-0077B5?logo=linkedin&style=flat-square">
   </a>
-  <a href="mailto:carlos@example.com">
+  <a href="mailto:carlscamt@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat-square">
   </a>
 </div>
