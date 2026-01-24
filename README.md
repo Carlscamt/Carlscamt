@@ -67,6 +67,9 @@ Anomaly detection system using advanced ML techniques.
 ### 📊 [CRM Sales Opportunities](https://github.com/Carlscamt/CRM-Sales-Opportunities)
 Data analysis and opportunity scoring for sales optimization.
 
+### 🎾 [Tennis_ML_Lite](https://github.com/Carlscamt/Tennis_ML_Lite)
+Lightweight machine learning models for tennis match predictions and analytics.
+
 ---
 
 ## 🎯 Current Focus
